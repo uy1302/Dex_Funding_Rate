@@ -1,0 +1,5 @@
+class ArbiConstant:
+    USDC_address = "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+    USDT_address = "0xFF970a61A04B1ca14834a43f5de4533D173"
+    WBTC_address = "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+    WETH_address = "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
